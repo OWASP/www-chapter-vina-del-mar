@@ -32,7 +32,7 @@ Para poder lograr este objetivo, organizamos más de 90 conferencias de CyberSec
 
 Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participantes pueden obtener créditos CPE asistiendo a las conferencias.
 
-Link of the event : <https://www.linkedin.com/events/6899843865000386560/>
+
 
 
 
@@ -44,7 +44,7 @@ Link of the event : <https://www.linkedin.com/events/6899843865000386560/>
 Evento regional sudamericano que tiene como propósito compartir experiencias, prácticas, métodos y herramientas de Agile Cybersecurity democratizando el conocimiento y de libre acceso para tod@s.
 
 
-Link of the event : <https://www.linkedin.com/company/agilecybersecurityfest/about/>
+Link of the event :
 
 
 ### ***Owasp Viña y Owasp Lagos(Nigeria)-meeting 4-2021***
