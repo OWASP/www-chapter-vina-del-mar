@@ -15,37 +15,6 @@ tags: example-tag
 ## **EVENTOS PASADOS** 
 
 
-### ***Owasp Viña del Mar y SCS(Comunidad Suiza de Seguridad) meeting 2-2022***
-
-
-3 de marzo del 2022
-
-Swiss CyberSecurity es una comunidad de expertos en ciberseguridad, profesionales de TI y todos aquellos interesados ​​en construir un mundo seguro.
-
-Nuestra visión es la de una sociedad de conexiones seguras, donde las personas puedan tener acceso a información y servicios sin comprometer su seguridad y privacidad.
-
-Nuestra misión es crear la mentalidad de seguridad cibernética correcta y la actitud correcta para estar al tanto de las nuevas amenazas.
-
-Swiss CyberSecurity crea una plataforma donde compartimos conocimientos, difundimos la voz sobre CyberSecurity, aumentamos la conciencia y profundizamos el conocimiento técnico al presentar tecnologías y soluciones innovadoras de ciberdefensa.
-
-Para poder lograr este objetivo, organizamos más de 90 conferencias de CyberSecurity con un tema específico de ciberseguridad, y nos reunimos con los miembros de la comunidad para tomar una copa y hablar sobre las novedades de CyberSecurity.
-
-Swiss CyberSecurity se asoció con (ISC)2 e ISACA, por lo que nuestros participantes pueden obtener créditos CPE asistiendo a las conferencias.
-
-
-
-
-
-### ***Owasp Viña del Mar y Festival de agilidad-meeting 1-2022***
-
-
-7 de enero del 2022
-
-Evento regional sudamericano que tiene como propósito compartir experiencias, prácticas, métodos y herramientas de Agile Cybersecurity democratizando el conocimiento y de libre acceso para tod@s.
-
-
-Link of the event :
-
 
 ### ***Owasp Viña y Owasp Lagos(Nigeria)-meeting 4-2021***
 
@@ -98,16 +67,6 @@ Link of the event : <https://owasp.org/www-event-2021-latam-at-home/index-en>
 Videos:<https://youtu.be/wYhqYyFsrrE> 
 
 
-
-### ***Desarrollo seguro con Owasp -- Parte 1 y desarrollo seguro con Owasp --Parte 2***
-
-Aprende a mitigar las vulnerabilidades de seguridad en el código fuente y a programar sin fallas de seguridad en tu aplicación.
-
-OWASP (acrónimo de Open Web Application Security Project, en inglés 'Proyecto abierto de seguridad de aplicaciones web') es un proyecto de código abierto dedicado a determinar y combatir las causas que hacen que el software sea inseguro. La Fundación OWASP es un organismo sin ánimo de lucro que apoya y gestiona los proyectos e infraestructura de OWASP (wikipedia: https://es.wikipedia.org/wiki/Open_Web_Application_Security_Project)
-
-OWASP Viña del Mar nos trae un taller de 2 partes, 2 horas cada uno para aprender sobre desarrollo seguro para detectar, remediar e implementar estándares herramientas de desarrollo seguro en tu código fuente
-
-https://www.meetup.com/es-ES/Women-Who-Code-Santiago/events/272773158/?isFirstPublish=true
 
 ### *** Owasp Chapter ALL DAY***
 
