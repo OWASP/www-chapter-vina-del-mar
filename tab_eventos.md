@@ -16,17 +16,7 @@ tags: example-tag
 
 
 
-### ***Owasp Viña y Owasp Lagos(Nigeria)-meeting 4-2021***
 
-27 de noviembre  2021
-
-Evento en conjunto con OWASP Chapter Lagos(Nigeria)
-
-Cuatro Speakers
-
-Speakers Confirmados:
-
-Link of the event : <https://www.linkedin.com/posts/owasp-lagos-chapter-6a92811b4_another-owasp-talks-is-here-november-27th-activity-6866166083951308800-XJhp>
 
 ### ***Owasp Viña del Mar-Meeting 3-2021***
 
