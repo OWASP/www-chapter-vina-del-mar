@@ -23,7 +23,7 @@ Generamos acciones para conectarnos y colaborar con el ecosistema, enfocando los
 Registro:
 
 Link of the event : <https://innovapolinav.cl/inscripcion-innovapolinav-2022> 
-Link of the event :  <https://www.meetup.com/es-ES/owasp-vina-del-mar-chapter/events/289068446/> 
+Link to Meetup :  <https://www.meetup.com/es-ES/owasp-vina-del-mar-chapter/events/289068446/> 
 
 ### ***Owasp Viña del Mar-Meeting 3-2021***
 
