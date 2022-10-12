@@ -14,9 +14,16 @@ tags: example-tag
 
 ## **EVENTOS PASADOS** 
 
+### ***Owasp Viña del Mar-Meeting 1-2022***
 
+Innovapolinav-2022
 
+Generamos acciones para conectarnos y colaborar con el ecosistema, enfocando los valores de la Armada de Chile en las actividades que realizamos como equipo. Nuestro propósito es ser el lugar de encuentro y colaboración entre la Armada de Chile y el ecosistema de investigación, desarrollo, innovación y emprendimiento nacional e internacional.
 
+Registro:
+
+Link of the event : <https://innovapolinav.cl/inscripcion-innovapolinav-2022> 
+Link of the event :  <https://www.meetup.com/es-ES/owasp-vina-del-mar-chapter/events/289068446/> 
 
 ### ***Owasp Viña del Mar-Meeting 3-2021***
 
